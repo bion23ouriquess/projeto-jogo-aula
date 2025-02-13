@@ -1,0 +1,17 @@
+:root {
+    --cor-primaria-clara: #7a90ff;
+    --cor-primaria: #4f5dad;
+    --cor-primaria-escura: #3e467c;
+   
+    --cor-fundo-padrao: #f7f7f7;
+   
+    --cor-texto-padrao: #1c2025;
+    --cor-texto-claro: #fff;
+   
+    --cor-info: #0288d1;
+    --cor-sucesso: #1aa251;
+    --cor-aviso: #dea500;
+    --cor-erro: #eb0014;
+   
+    --cor-cinza: #99a7bb;
+   }

@@ -1,0 +1,8 @@
+.container-jogo{
+    height: 100vh;
+    padding: 16px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    gap: 16px;
+}
